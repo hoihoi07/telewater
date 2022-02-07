@@ -88,7 +88,9 @@ def main(
 ):
     """A telegram bot that applies watermark on images, gifs and videos.
 
-    For detailed docs read : https://github.com/aahnik/telewater
+    Want any person bot or bot for your group or channel contact : https;//t.me/jettastic
+    
+    join updates channel https://t.me/jetbots
     """
 
     if FAKE:
